@@ -3,9 +3,10 @@ AlphaZero DeepLearning as back-end's RESTful APIs for Connect4 gaming AI engine,
 
 Connect4:
 
-![Screenshot of "Gomoku"]()
+![Screenshot of "Connect4"]()
 
 ## References
 
 https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
+https://github.com/yangboz/DeepReinforcementLearning
