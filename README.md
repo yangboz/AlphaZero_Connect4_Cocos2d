@@ -10,3 +10,5 @@ Connect4:
 https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
 https://github.com/yangboz/DeepReinforcementLearning
+
+https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
